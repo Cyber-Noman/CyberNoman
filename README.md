@@ -23,7 +23,7 @@
 <li> 🐍 <i>Trying to learn Python,PHP 😪</i></li>
 <li> 🤐 <i>Become a Software Engineer 😶</i></li>
 
-<b><p
+<b>
 <b><p align="center">🙂❗ Do Something Think Something ❗🙂</p></b>
 <h3>Contact With Me Via :</h3>
 <li> <a href="https://facebook.com/CYBER.NOMAN">Personal ID [FB]</a></li>
